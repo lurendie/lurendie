@@ -1,3 +1,4 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lurendie&show_icons=true">
 <!---
 <a href="https://github.com/lurendie">     
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=lurendie&mode=weekly" />              
